@@ -86,4 +86,4 @@ members = ["lib/*"]
 exclude = ["benches/search-points"]
 
 [profile.release]
-lto = "fat"
+lto = "slim"
